@@ -150,11 +150,11 @@ Q&A
 ## Practical-12: Case Study of Deep Learning Operations (DLOPs)
 
 #### Content 
-Introduction  
-Challenges
+Introduction
+Challenges 
 DataOps Implementation 
-Tools and Technologies  
+Tools and Techniques
 Benefits 
-Conclusion  
-Q&A 
+Conclusion
+Q&A
 
