@@ -163,7 +163,7 @@ Q&A
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/products/docker-desktop)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home)
 [![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)](https://flask.palletsprojects.com/en/2.3.x/installation/)
-[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)]([http://localhost:8888/notebooks/Downloads/pr-2.ipynb](https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png))
+[![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1_3-Q-dIaJnk3ByvEM_KrOy7CD6bkJIZ3?usp=sharing)
 ![](https://github.com/jupyterhub/repo2docker-action/workflows/Test/badge.svg) 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajan2133/MLOps/HEAD)
 
