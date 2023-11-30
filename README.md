@@ -158,3 +158,4 @@ Benefits
 Conclusion  
 Q&A 
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajan2133/MLOps/HEAD)
