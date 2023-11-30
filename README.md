@@ -1,5 +1,5 @@
 # MLOps Practicals
-![MLOps](https://img.shields.io/badge/MLOps-black.svg?logo=github&?logoColor=blue)
+[![MLOps](https://img.shields.io/badge/MLOps-black.svg?logo=github&?logoColor=blue)](https://ml-ops.org/)
 
 ## Practical-1: Study of Machine Learning Basics
 
@@ -162,6 +162,5 @@ Q&A
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rajan2133/MLOps/HEAD)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/products/docker-desktop)
-
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+[![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)](https://kubernetes.io/docs/home)
 ![](https://github.com/jupyterhub/repo2docker-action/workflows/Test/badge.svg) 
