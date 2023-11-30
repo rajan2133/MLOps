@@ -169,4 +169,4 @@ Q&A
 
 
 [0a]: https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg
-[0b]: https://github.com/open-AIMS/docker-example/issues/new
+[0b]: https://github.com/rajan2133/MLOps
